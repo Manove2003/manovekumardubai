@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_2" data-name="Layer 2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 377.19 37.64">
+  <defs>
+    <style>
+      .cls-1, .cls-2 {
+        isolation: isolate;
+      }
+
+      .cls-2 {
+        fill: #231f20;
+        font-family: PlayfairDisplay-Regular, 'Playfair Display';
+        font-size: 34.38px;
+      }
+
+      .cls-3 {
+        letter-spacing: -.02em;
+      }
+
+      .cls-4 {
+        letter-spacing: -.02em;
+      }
+
+      .cls-5 {
+        letter-spacing: -.02em;
+      }
+
+      .cls-6 {
+        letter-spacing: 0em;
+      }
+    </style>
+  </defs>
+  <g id="Layer_1-2" data-name="Layer 1-2">
+    <g class="cls-1">
+      <text class="cls-2" transform="translate(0 29.36)"><tspan x="0" y="0">THE M</tspan><tspan class="cls-4" x="106.81" y="0">A</tspan><tspan x="127.78" y="0">NS</tspan><tspan class="cls-6" x="170.62" y="0">IO</tspan><tspan x="207.2" y="0">N M</tspan><tspan class="cls-5" x="269.97" y="0">A</tspan><tspan x="290.94" y="0">RKE</tspan><tspan class="cls-3" x="356.67" y="0">T</tspan></text>
+    </g>
+  </g>
+</svg>
